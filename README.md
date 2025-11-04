@@ -38,12 +38,11 @@ I'm passionate about **data science**, **machine learning**, and **problem-solvi
 ## 📊 GitHub Stats
 
 | ![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan5aled26&show_icons=true&theme=tokyonight)|
-|---|---|
 
 ---
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan5aled26&layout=compact&theme=tokyonight)|
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan5aled26&layout=compact&theme=tokyonight)
 
 | Language          | Percentage |
 |-------------------|-------------|
