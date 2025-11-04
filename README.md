@@ -26,8 +26,8 @@ I'm passionate about **data science**, **machine learning**, and **problem-solvi
 ---
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-here)  
-[![Email](https://img.shields.io/badge/Email-lightgrey?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marwan-khaled-056a88287/)  
+[![Email](https://img.shields.io/badge/Email-lightgrey?style=flat&logo=gmail)](mailto:20230383@stud.fci-cu.edu.eg)
 
 ---
 
