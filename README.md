@@ -46,11 +46,12 @@ I'm passionate about **data science**, **machine learning**, and **problem-solvi
 
 | Language          | Percentage |
 |-------------------|-------------|
-| 🧪 Jupyter Notebook | 76.96% |
-| 💻 C++              | 12.78% |
-| 🌐 HTML             | 8.59% |
-| 🐍 Python           | 1.31% |
-| 🎨 CSS              | 0.36% |
+| 🐍 Python           |21.79 % |
+| 🧑‍💻 Java             |18.26 % |
+| 💻 C++              |30.8 % |
+| 🌐 HTML             |10.73 % |
+| 🎨 CSS              |10.58 % |
+| 🖥️ JavaScript       |8.84 % |
 
 ---
 
