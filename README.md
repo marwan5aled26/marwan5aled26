@@ -37,7 +37,7 @@ I'm passionate about **data science**, **machine learning**, and **problem-solvi
 
 ## 📊 GitHub Stats
 
-| ![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan5aled26&show_icons=true&theme=tokyonight)|
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan5aled26&show_icons=true&theme=tokyonight)
 
 ---
 
