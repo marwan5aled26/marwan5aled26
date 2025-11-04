@@ -1,20 +1,57 @@
-👋 Hi, I'm Marwan Khaled!
-🎓 Computer & AI Student | Data Scientist | Competitive Programmer
+# 👋 Hi, I'm Marwan Khaled!
 
-Welcome to my GitHub! I'm a second-year student at Cairo University, majoring in Computers and Artificial Intelligence. I'm passionate about data science, machine learning, and problem-solving, always eager to turn raw data into actionable insights.
+### 💻 Computer & AI Student | Data Scientist | Competitive Programmer  
 
-🔥 What I Do
-🚀 Data Science & Machine Learning – Building predictive models and analyzing data
-🖥️ Competitive Programming – Participated in ECPC (Egyptian Collegiate Programming Contest)
-🔍 Web Scraping & Automation – Extracting and processing data efficiently
-💾 Databases & SQL – Managing and optimizing data storage
-🐍 Python Developer – Writing clean and efficient code
+Welcome to my GitHub! I'm a third-year student at **Cairo University**, majoring in **Computers and Artificial Intelligence**.  
+I'm passionate about **data science**, **machine learning**, and **problem-solving**, always eager to turn raw data into actionable insights.
 
-🛠️ Tech Stack
-Programmin Languages: Python, SQL, C++, Java
-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup, Scipy, matplotlip, Plotly, seaborn, streamlit, dash, TensorFlow
-Tools: Jupyter Notebook, VS Code, Git
+---
 
-📫 Let's Connect!
-💼 LinkedIn | 📝 | ✉️ Email Me
-🚀 Always learning, always building!
+## 🔬 What I Do
+- 📊 **Data Science & Machine Learning** – Building predictive models and analyzing data  
+- 🏆 **Competitive Programming** – Participated in **ECPC (Egyptian Collegiate Programming Contest)**  
+- 🤖 **Web Scraping & Automation** – Extracting and processing data efficiently  
+- 🗄️ **Databases & SQL** – Managing and optimizing data storage  
+- 🐍 **Python Developer** – Writing clean and efficient code  
+
+---
+
+## 🧰 Tech Stack
+**Programming Languages:** Python, SQL, C++, Java  
+
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup, Scipy, matplotlib, Plotly, seaborn, streamlit, dash, TensorFlow  
+
+**Tools:** Jupyter Notebook, VS Code, Git  
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-here)  
+[![Email](https://img.shields.io/badge/Email-lightgrey?style=flat&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+✨ *Always learning, always building!* ✨  
+
+---
+
+## 📊 GitHub Stats
+
+| ![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldwalty&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwalty&layout=compact&theme=tokyonight) |
+|---|---|
+
+---
+
+## 📈 Most Used Languages
+
+| Language          | Percentage |
+|-------------------|-------------|
+| 🧪 Jupyter Notebook | 76.96% |
+| 💻 C++              | 12.78% |
+| 🌐 HTML             | 8.59% |
+| 🐍 Python           | 1.31% |
+| 🎨 CSS              | 0.36% |
+
+---
+
+<p align="center">⚡ Always curious — Always building ⚡</p>
