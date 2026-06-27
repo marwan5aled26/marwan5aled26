@@ -31,22 +31,9 @@ I'm passionate about **data science**, **machine learning**, and **problem-solvi
 
 ---
 
-✨ *Always learning, always building!* ✨  
-
----
-
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan5aled26&layout=compact&theme=tokyonight)
 
-| Language          | Percentage |
-|-------------------|-------------|
-| 💻 C++              |30.8 % |
-| 🐍 Python           |21.79 % |
-| 🧑‍💻 Java             |18.26 % |
-| 🌐 HTML             |10.73 % |
-| 🎨 CSS              |10.58 % |
-| 🖥️ JavaScript       |8.84 % |
-
 ---
 
-<p align="center">⚡ Always curious — Always building ⚡</p>
+<p align="center">✨ Always learning, always building! ✨</p>
